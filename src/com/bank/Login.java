@@ -41,7 +41,7 @@ public class Login extends JFrame implements ActionListener {
 
         cardTextField = new JTextField();
         cardTextField.setBounds(300,150,230,30);
-        
+
         add(cardTextField);
 
         JLabel pin = new JLabel("PIN: ");
